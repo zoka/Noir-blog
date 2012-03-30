@@ -1,8 +1,12 @@
-*~
+#blog database - remove it to have blogs saved in git
+sdb.db
+#lein 2.0
+/target/
+# lein 1.x
 pom.xml
 *jar
 /lib/
-/target/
 /classes/
 .lein-deps-sum
-sdb.db
+.lein-failures
+
